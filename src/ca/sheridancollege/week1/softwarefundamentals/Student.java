@@ -14,7 +14,8 @@ package ca.sheridancollege.week1.softwarefundamentals;
  */
 public class Student 
 {
-    private String name;
+    private String name
+    private int age; //change made
 
     /**
      * @return the name
